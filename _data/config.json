@@ -75,6 +75,8 @@
             }
         ]
     },
-    "footer": {},
+    "footer": {
+        "content": "adriamilan"
+    },
     "domain": "https://smiling-turmeric-89fbc.netlify.app"
 }
